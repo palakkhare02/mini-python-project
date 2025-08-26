@@ -6,16 +6,16 @@
 
 # simple way to solve this problem
 
-# Total_persons=int(input("Enter the number of persons living in room/flat:"))
-# Rent = int(input("Enter your room rent :"))
-# food=int(input("Enter the amount of food ordered :"))
-# electricity_spend= int(input("Enter the total of electricity spend units :"))
-# per_unit_electricity=int(input("Enter the charge per unit of electricity:"))
+Total_persons=int(input("Enter the number of persons living in room/flat:"))
+Rent = int(input("Enter your room rent :"))
+food=int(input("Enter the amount of food ordered :"))
+electricity_spend= int(input("Enter the total of electricity spend units :"))
+per_unit_electricity=int(input("Enter the charge per unit of electricity:"))
 
-# Total_bill= electricity_spend*per_unit_electricity
-# output =(food+Rent+Total_bill)//Total_persons
+Total_bill= electricity_spend*per_unit_electricity
+output =(food+Rent+Total_bill)//Total_persons
 
-# print("Each persons will pay eqaul to",output,"rs")
+print("Each persons will pay eqaul to",output,"rs")
 
 
 #  using function
@@ -53,6 +53,7 @@ def calculate_bill_per_person():
 # Call the function to run the program
 if __name__ == "__main__":
     calculate_bill_per_person()
+
 
 
 
