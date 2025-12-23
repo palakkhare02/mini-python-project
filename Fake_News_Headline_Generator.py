@@ -42,5 +42,5 @@ while True:
   if user_input=="no":
     break
 
-# print goodbye message
+# step 4 : print goodbye message
 print("\n Thanks for using the Fake News Headline Generator. Have a fun day")
