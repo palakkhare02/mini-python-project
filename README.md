@@ -24,7 +24,7 @@ The repository includes multiple mini projects such as:
 * String & validation programs
 * Small utility-based applications
 * Fun logic-based projects
-
+* A digital clock (using tkinter)
 Each project is implemented in **Python** and focuses on a specific concept.
 
 ---
@@ -38,6 +38,7 @@ Each project is implemented in **Python** and focuses on a specific concept.
 * Lists & Strings
 * User Input Handling
 * Basic use of Python modules
+* use tkinter , time ,strftime modules
 
 ---
 
